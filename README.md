@@ -27,8 +27,6 @@ We focus on mentorship, open source, and project-based learning — helping begi
 - 🧠 **Odoo Hackathon Finalists 2025**  
 - 🧩 **Workshops & Tech Events:** Blockchain, GitHub, Microsoft Skillsprint, and more  
 
-👉 Explore our [**Showcase Repository**](https://github.com/techbytz/techbytz-showcase) for detailed write-ups and projects.
-
 ---
 
 ## 🛠️ Tech Stack
