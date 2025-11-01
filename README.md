@@ -24,7 +24,7 @@ We focus on mentorship, open source, and project-based learning — helping begi
 ## 🏅 Achievements
 - 🥇 **Winners – OSCode Championship 2025 (NMIT, Bengaluru)**  
 - 🎖️ **Hacktoberfest 2025 Contributors** – Multiple PRs in DSA and mini-project repos  
-- 🧠 **Odoo Hackathon Finalists 2025**  
+- 🧠 **Odoo x NMIT Hackathon Finalists 2025**  
 - 🧩 **Workshops & Tech Events:** Blockchain, GitHub, Microsoft Skillsprint, and more  
 
 ---
